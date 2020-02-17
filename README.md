@@ -1,4 +1,4 @@
 # best-repo-ever
 1. Open the README.md in your repository
-2. Add some content using your favorite text editor.
-3. When you’re finished, save your changes.
+2. Line changed in new-branch-2 also
+3. Line changed in new-branch-2 also
